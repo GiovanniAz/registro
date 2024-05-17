@@ -41,7 +41,6 @@
 
     
     <?php
-// Incluye el archivo de conexión
 include("../controlador/conexion.php");
 include("../controlador/controlador_logear_usuarios.php");
     ?>
