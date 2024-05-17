@@ -34,9 +34,8 @@ include("../controlador/controlador_registrar_usuarios.php");
                 <div class="form-group">
     <button class="btn btn-success btn-block btn-info" type="submit" name="register">Registrarse</button>
 </div>
-<!-- Mensaje de alerta -->
 <?php echo $mensaje; ?>
-<!-- Fin mensaje de alerta -->
+
 <div class="form-group text-center">
     <a class="text-info" href="../login/login.php">¿Ya tienes cuenta? Inicia sesión</a>
 </div>
